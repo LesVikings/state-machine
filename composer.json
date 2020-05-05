@@ -1,8 +1,8 @@
 {
-    "name":        "xiaobudongzhang/state-machine",
+    "name":        "winzou/state-machine",
     "description": "A very lightweight yet powerful PHP state machine",
     "keywords":    ["statemachine", "state", "event", "callback"],
-    "homepage":    "https://github.com/xiaobudongzhang/StateMachine",
+    "homepage":    "https://github.com/winzou/state-machine",
     "type":        "library",
     "license":     "MIT",
     "require": {
